@@ -1,2 +1,2 @@
 # scriptsUteis
-A couple of PythonScripts that is Usefull in my Day a Day routine
+A couple of PythonScripts that are Usefull in my Day a Day routine
